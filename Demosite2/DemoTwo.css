@@ -1,0 +1,39 @@
+body {
+  background-color: #00bbf0;
+
+}
+
+#d2title{
+  text-align: center;
+  font-size: 50px;
+  color: #f96d00;
+}
+
+#message{
+
+}
+
+button{
+  align-items: center;
+  cursor: grab;
+}
+
+#label1{
+  font-size: 28px;
+  font-weight: bold;
+}
+
+#foot{
+  text-align: center;
+  font-weight: bold;
+}
+
+#link1{
+  text-align: center;
+  font-weight: bold;
+}
+
+#img1{
+display: block;
+  margin-left: auto;
+}
